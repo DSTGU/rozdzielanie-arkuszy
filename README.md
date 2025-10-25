@@ -1,3 +1,5 @@
+## Admin
+
 Aby skrypt działał prawidłowo wymagane jest stworzenie arkusza w sheetsach o nazwie "Admin".
 
 Struktura tego arkusza wygląda następująco
@@ -16,3 +18,5 @@ Należy uzupełnić prawidłowymi danymi następujące pola:
 Należy również uzupełnić schemę, gdzie pierwszy rząd oznacza nazwę kolumny, a następne to możliwe odpowiedzi, przy czym ostatni rząd oznacza domyślnie zaznaczoną wartość, a pierwszy rząd oznacza pożądaną wartość (tą, której istnienie będzie podliczane)
 
 Schema zostanie dodana również do arkusza obdzwaniających
+
+# Przykładowe arkusze z adminem są dostępne wewnątrz repozytorium
