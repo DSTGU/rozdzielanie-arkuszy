@@ -2,7 +2,7 @@ Aby skrypt działał prawidłowo wymagane jest stworzenie arkusza w sheetsach o 
 
 Struktura tego arkusza wygląda następująco
 
-![schema](https://github.com/DSTGU/rozdzielanie-arkuszy/blob/master/image.jpg?raw=true)
+![schema](https://raw.githubusercontent.com/DSTGU/rozdzielanie-arkuszy/refs/heads/master/schema.png)
 
 Należy uzupełnić prawidłowymi danymi następujące pola:
 (pola pod podpisem, nie na czerwono)
